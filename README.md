@@ -1,3 +1,5 @@
+##Starlyn Mateo 23-0977
+
 ## Propósito de las Pruebas Unitarias
 
 ### **Banco (C# - xUnit)**
@@ -11,7 +13,7 @@
 
 ### **E-commerce (Python - pytest)**
 - **test_inventory.py**: Evalúa la gestión de inventario y la reserva de productos.
-  - **1eraparte: Reserva exitosa de stock**: Un usuario que compra un producto con suficiente stock disponible debe poder reservarlo exitosamente.
+  - **1era parte: Reserva exitosa de stock**: Un usuario que compra un producto con suficiente stock disponible debe poder reservarlo exitosamente.
   - **2da parte: Reserva fallida por falta de stock**: Si un usuario intenta reservar más unidades de las disponibles, la operación debe fallar y el stock permanecer inalterado.
 
 - **test_purchase.py**: Garantiza que las compras se registren correctamente.
