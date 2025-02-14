@@ -102,3 +102,4 @@ C:\Users\SJ-NET\banco_Autentication_MFA\tests\obj\Debug\net8.0\refint\tests.dll
 C:\Users\SJ-NET\banco_Autentication_MFA\tests\obj\Debug\net8.0\tests.pdb
 C:\Users\SJ-NET\banco_Autentication_MFA\tests\obj\Debug\net8.0\tests.genruntimeconfig.cache
 C:\Users\SJ-NET\banco_Autentication_MFA\tests\obj\Debug\net8.0\ref\tests.dll
+C:\Users\SJ-NET\banco_Autentication_MFA\tests\obj\Debug\net8.0\tests.sourcelink.json
